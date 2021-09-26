@@ -1,0 +1,7 @@
+LIBRARY    "C6DisplayQR.dll"
+
+EXPORTS
+GetClassObject
+DestroyObject
+GetClassNames
+SetPlatformCapabilities
